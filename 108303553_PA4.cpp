@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
+#include "data_structure.h"
 #include "file_process.h"
 #include "graph.h"
 
